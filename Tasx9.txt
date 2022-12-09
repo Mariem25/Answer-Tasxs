@@ -1,0 +1,8 @@
+title => "Global"
+href => "Not global"
+src => "Not global"
+hidden => "Global"
+charset => "Not global"
+class => "Global"
+id => "Global"
+type => "Not global"

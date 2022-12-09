@@ -1,0 +1,8 @@
+<!-- Go To External Link -->
+<a href="https://google.com">Google</a>
+
+<!--take the user to specific content in the page -->
+<a href="#id">Go to paragraf 3</a>
+
+<!-- take the user to email, to send an email-->
+<a href="mailto:o@nn.sa">Contact Me</a>

@@ -1,0 +1,5 @@
+<p class="element">Welcome To The New World</p>
+<p class='element'>Welcome To The New World</p>
+<p class=element>Welcome To The New World</p>
+
+In this exable all of them are the same, but the third it will be different when class's value is more than one word

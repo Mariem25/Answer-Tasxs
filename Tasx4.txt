@@ -1,0 +1,12 @@
+
+1) <!-- Setting the viewport to make your website look good on all devices-->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+2)<!-- Define the author of a page-->
+<meta name="author" content="John Doe">
+
+3) <!--Define keywords for search engines -->
+<meta name="keywords" content="HTML, CSS, JavaScript">
+
+4)<!--provides the best support for displaying any kind of language. -->
+<meta charset="UTF-8" />
